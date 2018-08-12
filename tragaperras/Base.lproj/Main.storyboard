@@ -110,7 +110,7 @@
                         <outlet property="displayDerecho" destination="X3K-YR-PE9" id="kA0-FS-cly"/>
                         <outlet property="displayIzquierdo" destination="1YY-Xo-ASo" id="ffp-eg-NXJ"/>
                         <outlet property="displayPremio" destination="uUp-RI-zge" id="C35-uj-xMe"/>
-                        <outlet property="miDinero" destination="hJU-tQ-Bru" id="Xi8-Qr-ns2"/>
+                        <outlet property="miDinero" destination="hJU-tQ-Bru" id="g67-JM-Rfw"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
