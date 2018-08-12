@@ -8,13 +8,41 @@
 
 import UIKit
 
+
+
+
+
+
 class ViewController: UIViewController {
 
+    @IBOutlet weak var displayPremio: UILabel!
+    
+    
+    
+    
+    
+    @IBOutlet weak var displayIzquierdo: UILabel!
+    
+   
+    @IBOutlet weak var displayCentro: UILabel!
+    
+    
+    @IBOutlet weak var displayDerecho: UILabel!
+    
+    
+    
+    @IBOutlet weak var miDinero: UILabel!
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBAction func pulsador(_ sender: UIButton) {
+    }
+    
 }
 
