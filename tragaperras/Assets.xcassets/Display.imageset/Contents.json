@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "48052762-máquina-tragaperras-ganar-ganar-ganar-el-juego-ilustración-sobre-fondo-blanco-.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "48052762-máquina-tragaperras-ganar-ganar-ganar-el-juego-ilustración-sobre-fondo-blanco-@2x.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "48052762-máquina-tragaperras-ganar-ganar-ganar-el-juego-ilustración-sobre-fondo-blanco-@3x.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
